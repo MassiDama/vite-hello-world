@@ -1,6 +1,6 @@
 <script>
 export default {
-    name: "NewComponent"
+    name: "AppTitle"
 }
 </script>
 
